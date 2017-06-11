@@ -13,3 +13,5 @@ if(age < 0) {
 } else {
     console.log("Nothing special about your age...")
 }
+
+// Running the JS console will return "Happy 21th B-DAY!!!"
